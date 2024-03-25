@@ -1,0 +1,8 @@
+# Ignore artifacts:
+dist
+
+# Ignore Assets files:
+theme/
+
+# Ignore node_modules
+node_modules/**

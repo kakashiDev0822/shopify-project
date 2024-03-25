@@ -1,0 +1,23 @@
+development:
+  store: [your-store].myshopify.com
+  password: [your-api-password]
+  theme_id: "[your-theme-id]"
+  directory: dist/
+  ignore_files:
+    - config/settings_data.json
+
+production:
+  store: [your-store].myshopify.com
+  password: [your-api-password]
+  theme_id: "[your-theme-id]"
+  timeout: 60s
+  readonly: true
+  directory: dist/
+  ignore_files:
+    - config/settings_data.json
+
+test:
+  store: [your-store].myshopify.com
+  password: [your-api-password]
+  theme_id: "[your-theme-id]"
+  directory: dist/

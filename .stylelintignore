@@ -1,0 +1,16 @@
+# Ignore liquid templates:
+*.liquid
+
+# Other files:
+*.otf
+*.png
+*.jpg
+*.woff
+*.woff2
+*.ttf
+*.json
+*.eot
+
+# Ignore app folders
+node_modules/**
+generator/**

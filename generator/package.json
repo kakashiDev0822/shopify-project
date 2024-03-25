@@ -1,0 +1,13 @@
+{
+  "name": "generator-components",
+  "version": "0.1.0",
+  "description": "",
+  "files": [
+    "page",
+    "snippet",
+    "template"
+  ],
+  "keywords": [
+    "yeoman-generator"
+  ]
+}
